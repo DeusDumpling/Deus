@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<style>
+		body{
+	background-color:lightblue;
+}
+h1{
+	color:white;
+	font-size:80px;
+	text-align:center;
+	text-shadow:2px 2px 4px#000000;
+}
+
+p{
+	font-family:verdana;
+	font-size:20px;
+}
+</style>
+	</head>
+		<body>
+			<h1>JOB</h1>
+			<p> GIMME DAT JOB M8 , AND DO IT NOWWW</p>
+			<h2>tak for det :3 </h2>
+			<p>Med venlig hilsen<p>
+			<h3>Michal Jan Kossowski</h3>
+		</body>
+</html>
